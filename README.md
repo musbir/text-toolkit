@@ -1,5 +1,7 @@
 # text-toolkit
 
+[![Tests](https://github.com/musbir/text-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/musbir/text-toolkit/actions/workflows/tests.yml)
+
 A small collection of pure Python text utility functions.
 
 ## Functions
